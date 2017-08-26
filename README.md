@@ -1,10 +1,10 @@
 # Python_CURD_operations
 Create,Update,Retrieve,Display d operations with python
-This project contains python menu driven program which can perform below operations:
-1.Add
-2.Update
-3)Retrieve
-4)Display
+This project contains python menu driven program which can perform below operations:</br>
+1) Add</br>
+2) Update</br>
+3) Retrieve</br>
+4) Display</br>
 
 This project requires python3,Mysql and python modules like:PyMySql installed.
 Create database name mydb,user root with password 'root123'.Copy this project on your machine and execute database_CURD_OPERATIONS.
